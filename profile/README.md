@@ -1,9 +1,11 @@
+# [PigeonPost](https://pigeonpost.kshitijkochhar.com)
+
 ## Our Education System has a Retention Problem
 **Large lecture halls** and **passive, lecture-based formats** often hinder student engagement and comprehension, especially in critical “weed-out” courses. With a 23.3% dropout rate among first-time freshmen and 26% leaving due to academic challenges, these courses become barriers to progress, especially for students with **ADHD, dyslexia, and other learning disabilities** (Education Data Initiative 2024).
 
 Many students struggle to keep up with essential concepts in lectures, creating confusion and discouragement that often leads to dropouts or shifts in academic focus. Traditional resources like office hours are often inaccessible or ineffective due to time and logistical constraints, limiting students' academic and social potential.
 
-## Introducing PigeonPost
+## Introducing [PigeonPost](https://pigeonpost.kshitijkochhar.com)
 We propose **PigeonPost**, an educational tool designed to bridge the gap between lecture delivery and student comprehension. This platform utilizes advanced speech recognition to transcribe live lectures in real-time, integrates with a vector database to contextually enrich the transcriptions, and employs retrieval augmented generation technology to provide instant, contextual answers to student queries directly within the app.
 
 ![Solution.png](https://cdn.dorahacks.io/static/files/193156153b3703ceba48ae14423a5402.png)
